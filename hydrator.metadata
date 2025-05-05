@@ -1,1 +1,5 @@
-{"drySHA": "54639cba1822e1d5d43c10f397169d1e3b8dd059"}
+{
+  "repoURL": "https://github.com/crenshaw-dev/gitops-promoter-demo-hydrator",
+  "drySha": "54639cba1822e1d5d43c10f397169d1e3b8dd059",
+  "commands": null
+}

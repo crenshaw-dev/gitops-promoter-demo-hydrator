@@ -1,7 +1,0 @@
-{
-  "repoURL": "https://github.com/crenshaw-dev/gitops-promoter-demo-hydrator",
-  "drySha": "254505a45c4b7448de15c0fbbd65ffb6c6087c58",
-  "commands": [
-    "kustomize build ./production/us-west-1"
-  ]
-}

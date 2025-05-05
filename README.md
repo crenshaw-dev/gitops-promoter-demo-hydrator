@@ -7,6 +7,6 @@ To hydrate the manifests in this repository, run the following commands:
 
 git clone https://github.com/crenshaw-dev/gitops-promoter-demo-hydrator
 # cd into the cloned directory
-git checkout 54639cba1822e1d5d43c10f397169d1e3b8dd059
+git checkout e5e3bceba6619f856b09476941f3fa6412666534
 kustomize build ./development
 ```
